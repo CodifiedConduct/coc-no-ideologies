@@ -4,6 +4,16 @@ A code of conduct focused on the restriction of discussion to technical topics, 
 
 * * *
 
+## Who should use this Code of Conduct
+
+This document specifically refers to your "repository", meaning it is designed specifically for use in a code repo. It's goal is to prevent conflicts between ideological differences before they start. As such if your project is primarily focused more on a non-technical ideology, this document may not be for you.
+
+If your project has grown to become a platform for a larger ecosystem, then you may be better off with a less restrictive Code of Conduct to allow for discussions around ideologies in your community. Attempting to police all conversations in larger communities may be detrimental to your project, and could have difficulty scaling, resulting in only partial enforcement. Keep this in mind when deciding on a code of conduct.
+
+See: CodifiedConduct.org for other options.
+
+* * *
+
 ## License
 
 <p xmlns:dct="http://purl.org/dc/terms/">
