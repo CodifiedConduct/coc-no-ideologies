@@ -1,2 +1,21 @@
-# coc-no-ideologies
-Code of Conduct focused on the restriction of discussion to technical topics
+# "No Ideologies" Code of Conduct
+
+A code of conduct focused on the restriction of discussion to technical topics, and disallowing discussions pertaining to non-technical ideologies.
+
+* * *
+
+## License
+
+<p xmlns:dct="http://purl.org/dc/terms/">
+  <a rel="license" ref="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher" href="https://github.com/CodifiedConduct/coc-no-ideologies">
+    <span property="dct:title">The Jared Wilcurt</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">"No Ideologies" Code of Conduct</span>.
+</p>
+
+The "No Ideologies" code of conduct is in the public domain, and therefore can be modified and reused in any manner you see fit. This is to encourage customizing the document for your community without any restriction to the customization. Modifcations do not need to reference back to this source document, or give any attribution. Free for all use, commercial or otherwise.
