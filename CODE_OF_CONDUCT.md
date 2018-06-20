@@ -24,13 +24,13 @@ The following are the guidelines we expect our community members and maintainers
 
 * * *
 
+## Guidelines
+
 ### Guidelines for community members
 
 This project is technical in nature and not based around any particular non-technical ideology. As such, communication that is based primarily around ideologies unrelated to the technologies used by this repository are not permitted.
 
 Any discussion or communication that is primarily focused around an ideology, be it about race, gender, politics, religion, or anything else non-technical, is not allowed. Everyone has their own ideological preferences, beliefs, and opinions. We do not seek to marginalize, exclude, or judge anyone for their ideologies. To prevent conflict between those with differing or opposing ideologies, all communication on these subjects are prohibited. Some discussions around these topics may be important, however this project is not the proper channel for these discussions.
-
-* * *
 
 ### Guidelines for maintainers
 
@@ -41,7 +41,7 @@ Any discussion or communication that is primarily focused around an ideology, be
 
 * * *
 
-### Appropriate response to violations
+## Appropriate response to violations
 
 How to respond to a community member or maintainer violating a guideline.
 
