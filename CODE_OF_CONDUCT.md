@@ -52,4 +52,4 @@ How to respond to a community member or maintainer violating a guideline.
 
 * * *
 
-Based on version 1.0.0 from https://github.com/CodifiedConduct/coc-no-ideologies
+Based on version 1.0.1 from https://github.com/CodifiedConduct/coc-no-ideologies
