@@ -1,4 +1,4 @@
-# Code of Conduct
+# "No Ideologies" Code of Conduct
 
 The following are the guidelines we expect our community members and maintainers to follow.
 
