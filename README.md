@@ -10,7 +10,15 @@ This document specifically refers to your "repository", meaning it is designed s
 
 If your project has grown to become a platform for a larger ecosystem, then you may be better off with a less restrictive Code of Conduct to allow for discussions around ideologies in your community. Attempting to police all conversations in larger communities may be detrimental to your project, and could have difficulty scaling, resulting in only partial enforcement. Keep this in mind when deciding on a code of conduct.
 
-See: CodifiedConduct.org for other options.
+See: [CodifiedConduct.org](http://CodifiedConduct.org) for other options.
+
+* * *
+
+## Who is using this Code of Conduct
+
+We have a wiki page to list projects using this document, feel free to add your project if you are using it.
+
+* https://github.com/CodifiedConduct/coc-no-ideologies/wiki
 
 * * *
 
